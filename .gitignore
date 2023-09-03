@@ -1,0 +1,5 @@
+/.idea
+/testenv
+/__pycache__
+*.bat
+*.yaml
